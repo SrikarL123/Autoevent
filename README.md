@@ -140,7 +140,6 @@ smart-event-registration-attendance-automation/
 │   ├── registration.png
 │   ├── registration_email.jpg
 │   └── attendance.png
-├── qr_codes/
 ├── README.md
 └── .gitignore
 ```
