@@ -217,6 +217,11 @@ Create a `.env` file using:
 ```text
 .env.example
 ```
+credentials.json
+.env
+venv/
+__pycache__/
+qr_codes/
 
 Add your Gmail address and Gmail App Password.
 
