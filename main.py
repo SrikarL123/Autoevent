@@ -5,8 +5,8 @@ import qrcode
 from email.message import EmailMessage
 import smtplib
 
-EMAIL = "doestovesky1@gmail.com"
-APP_PASSWORD = "vquu ieky dyui wdze"
+EMAIL = "your_email_id"
+APP_PASSWORD = "your_app_password"
 
 SCOPES = [
     "https://www.googleapis.com/auth/spreadsheets",
